@@ -1,0 +1,22 @@
+a{
+	display:block;
+	font-weight:bold;
+	color:#ffffff;
+	background:#0006cc;
+	width:200px;
+	text-align:centre;
+	padding:4px;
+	text-decoration:none;
+	margin:0 auto;
+	margin-top:10px;
+}a:hover{
+	background:#b3b3b3;
+	color:#0006cc;
+}
+a:focus{
+	background:#b3b3b3;
+	color:#ff0000;
+}
+a:active{
+	border:3px solid  #39e600;
+}
